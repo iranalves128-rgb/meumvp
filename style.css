@@ -1,0 +1,20 @@
+ody {
+font-family: Arial;
+margin: 0;
+}
+header {
+background: #333;
+color: white;
+display: flex;
+justify-content: space-between;
+padding: 15px;
+}
+#lista-projetos {
+display: flex;
+flex-wrap: wrap;
+gap: 10px;
+  }
+.card {
+border: 1px solid #ccc;
+padding: 10px;
+}
